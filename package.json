@@ -23,7 +23,7 @@
 	"homepage": "https://github.com/deparadise/fresh_apollo_startup#readme",
 	"dependencies": {
 		"apollo-datasource-rest": "^0.6.9",
-		"apollo-server": "^2.9.7",
+		"apollo-server": "^2.14.2",
 		"graphql": "^14.5.8"
 	},
 	"devDependencies": {
